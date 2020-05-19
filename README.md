@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 # :pencil: React-vs-LitElement
 A detailed comparison between two of the finest front-end libraries for building re-usable web components.
 
