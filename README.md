@@ -2,7 +2,7 @@
 
 A detailed comparison between two of the finest front-end libraries for building re-usable web components.
 
-## Let's see what their documentation speaks for themselves
+## 1. Let's see what their documentation speaks for themselves :loudspeaker:
 
 <table border="0">
 <tr>
