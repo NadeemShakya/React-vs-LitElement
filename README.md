@@ -9,7 +9,7 @@ A detailed comparison between two of the finest front-end libraries for building
 <table border="0">
  <tr style="text-align: center">
    <td> 
-     <b>Declarative</b> <br /><br />
+     <b class="cell-header">Declarative</b> <br /><br />
         React makes it painless to create interactive UIs. Design simple views for each state in your application,         and React will efficiently update and render just the right components when your data changes.
         Declarative views make your code more predictable and easier to debug.
    </td>
